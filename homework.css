@@ -1,0 +1,262 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    height: 510vh;
+}
+.navbar{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(56, 55, 55);
+    display: flex;
+}
+.h1{
+    color: white;
+    margin-top: 18px;
+    margin-left: 100px;
+}
+.qq{
+    color: white;
+    display: flex;
+    margin-top: 30px;
+    margin-left: 150px;
+    list-style: none;
+}
+.item{
+    margin-left: 30px;
+}
+.inp{
+    border-radius: 30px;
+    width: 250px;
+    height: 30px;
+    background-color: white;
+    color: grey;
+    margin-top: 27px;
+    margin-left: 40%;
+}
+.navbar i{
+    width: 15px;
+    height: 15px;
+    color: grey;
+    transform: translateY(32px);
+}
+.banner{
+    width: 100%;
+    height: 600px;
+    background-color: #000;
+    padding-top: 80px;
+}
+.ww{
+    color: white;
+    margin-left: 80px;
+}
+.ee{
+    color: white;
+    width: 350px;
+    margin-left: 80px;
+    margin-top: 60px;
+}
+.rr{
+    width: 100px;
+    height: 30px;
+    background-color: #000;
+    border: 1px solid white;
+    border-radius: 5px;
+    color: white;
+    margin-top: 100px;
+    margin-left: 80px;
+}
+.tt{
+    width: 100px;
+    height: 30px;
+    background-color: #000;
+    border: 1px solid white;
+    border-radius: 5px;
+    color: white;
+    margin-left: 30px;
+}
+.yy{
+    width: 600px;
+    height: 280px;
+    border-radius: 15px;
+    border: 1px solid white;
+    margin-left: 35%;
+    margin-top: -40%;
+}
+.uu{
+    color: white;
+    text-align: center;
+    margin-top: 70px;
+}
+.coffe_time{
+    width: 100%;
+    height: 1018px;
+    background-color: rgb(56, 55, 55);
+    padding-top: 80px;
+    display: flex;
+}
+.ii{
+    color: white;
+    margin-left: 685px;
+}
+.group{
+    width: 300px;
+    height: 370px;
+    background-color: #000;
+    margin-left: -650px;
+    margin-top: 200px;
+    padding-top: 30px;
+}
+.oo{
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 1px solid white;
+    display: block;
+}
+.pp{
+    text-align: center;
+    margin-top: 40px;
+    color: white;
+}
+.aa{
+    width: 250px;
+    color: wheat;
+    text-align: center;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+.group2{
+    width: 300px;
+    height: 370px;
+    background-color: #000;
+    margin-top: 200px;
+    margin-left: 200px;
+    padding-top: 30px;
+}
+.ss{
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 1px solid white;
+    display: block;
+}
+.dd{
+    text-align: center;
+    margin-top: 40px;
+    color: white;
+}
+.ff{
+    width: 250px;
+    color: wheat;
+    text-align: center;
+    margin-left: 25px;
+    margin-top: 20px;
+}
+.hr{
+    width: 100%;
+    height: 2px;
+    background-color: green;
+}
+.hamkasblar{
+    width: 100%;
+    height: 900px;
+    background-color: rgb(56, 55, 55);
+    padding-top: 50px;
+}
+.gg{
+    text-align: center;
+    color: white;
+}
+.hh{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 1px solid white;
+    margin-left: 230px;
+    margin-top: 100px;
+}
+.kk{
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+}
+.ll{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+}
+.hrr{
+    width: 100%;
+    height: 2px;
+    background-color: green;
+}
+.footer1{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(56, 55, 55);
+    padding-top: 100px;
+}
+.zz{
+    color: white;
+    width: 400px;
+    margin-left: 80px;
+}
+.xx{
+    color: white;
+    margin-left: 950px;
+    margin-top: -185px;
+}
+.cc{
+    color: wheat;
+    margin-left: 1100px;
+    margin-top: 20px;
+}
+.vv{
+    width: 100%;
+    height: 2px;
+    background-color: red;
+}
+.footer2{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(56, 55, 55);
+    padding-top: 100px;
+}
+.bb{
+    margin-left: 300px;
+    color: white;
+}
+.nn{
+    margin-left: 320px;
+    margin-top: 20px;
+    color: white;
+}
+.mm{
+    margin-top: 20px;
+    margin-left: 295px;
+    color: white;
+}
+.qqq{
+    color: white;
+    margin-left: 950px;
+    margin-top: -165px;
+}
+.www{
+    color: white;
+    margin-left: 1050px;
+    margin-top: 20px;
+}
+.eee{
+    color: yellow;
+    margin-left: 350px;
+    margin-top: 100px;
+}
